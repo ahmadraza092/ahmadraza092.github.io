@@ -1,5 +1,5 @@
 <h1>Hafiz Ahmad Raza</h1>
-<p>Certified Data Analyst | GIK Graduate | Former Consultant at Convergent</p>
+<p>Data Consultant | Microsoft Certified: Power BI Data Analyst Associate| Consultant Analytics & Insights at Convergent </p>
 
 <h2>Projects</h2>
 <ul>
