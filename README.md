@@ -44,8 +44,8 @@
 </head>
 <body>
 
-  <h1>Hafiz Ahmad Raza</h1>
-  <p><strong>Data Consultant | Microsoft Certified: Power BI Data Analyst | GIK Graduate</strong></p>
+  <h1>Ahmad Raza</h1>
+  <p><strong>Data Consultant | Microsoft Certified: Power BI Data Analyst | GIK Graduate </strong></p>
   <p>📍 Islamabad, Pakistan<br>
      📧 <a href="mailto:ahmad.58.raza@gmail.com">ahmad.58.raza@gmail.com</a><br>
      📞 +92-341-6565058<br>
@@ -75,7 +75,7 @@
   <div class="section">
     <h2>Projects</h2>
     <ul>
-      <li><strong>📊 PepsiCo Pakistan (Convergent Business Technologies)</strong><br>
+      <li><strong>📊 PepsiCo Pakistan</strong><br>
         Built executive dashboards using optimized star schemas and Power Query. Automated data validation using Python and SSAS, improving performance by 35%.</li>
       <li><strong>📈 PepsiCo KSA & UAE</strong><br>
         Automated dashboard validation workflow using Python, reducing refresh time from 3 days to 1 day. Implemented AI-based SKU mapping using Gemini, achieving a 99% reduction in manual mapping time. Streamlined report generation, cutting delivery time from 5 days to 2 days. Supported onboarding of new beverage categories and retailers for enhanced market tracking.</li>
@@ -87,10 +87,10 @@
   <div class="section">
     <h2>Skills</h2>
     <ul>
-      <li>💻 Tools: Power BI, SQL, Python, Tableau, Excel</li>
-      <li>📊 Data Modeling & ETL: DAX, Power Query, Talend, API Integration</li>
+      <li>💻 Tools: Power BI, SQL, Python, Tableau, Excel, Airflow, n8n </li>
+      <li>📊 Data Modeling & ETL: DAX, Power Query, Talend, API Integration, webscrapping</li>
       <li>📚 Machine Learning: Regression, KNN, Random Forest, Clustering</li>
-      <li>🗄️ Databases: PostgreSQL, BigQuery, SQL Server</li>
+      <li>🗄️ Databases: PostgreSQL, BigQuery, SQL Server, MySQL</li>
     </ul>
   </div>
 
